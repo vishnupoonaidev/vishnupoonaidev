@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishnupoonaidev
 - 👀 I’m interested in becoming a net framework developer
-- 🌱 I’m currently learning javascript, sql server adn C3
+- 🌱 I’m currently learning javascript, sql server and C#
 - 💞️ I’m looking to collaborate on any open source project. 
 - 📫 
 
